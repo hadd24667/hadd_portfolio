@@ -6,13 +6,13 @@ import { collection, addDoc, getDocs } from "@firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBc57lzIaNAUbFuuqG96NV5lUaXJMnXioM",
-  authDomain: "portforfilio.firebaseapp.com",
-  projectId: "portforfilio",
-  storageBucket: "portforfilio.firebasestorage.app",
-  messagingSenderId: "208007205458",
-  appId: "1:208007205458:web:c4dbc4db1d7ef41656c58b",
-  measurementId: "G-JJQS341556"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
