@@ -113,7 +113,7 @@ const techStacks = [
   { icon: "mysql.svg", language: "MySQL" },
   { icon: "sql-server.svg", language: "SQL Server" },
   { icon: "hibernate.svg", language: "Hibernate" },
-  // { icon: "vercel.svg", language: "Vercel" },
+  { icon: "vercel.svg", language: "Vercel" },
 ];
 
 export default function FullWidthTabs() {
