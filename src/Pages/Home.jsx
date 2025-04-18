@@ -25,14 +25,14 @@ const MainTitle = memo(() => (
       <span className="relative inline-block">
         <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20"></span>
         <span className="relative bg-gradient-to-r from-white via-blue-100 to-purple-200 bg-clip-text text-transparent">
-          Backend
+          Full-Stack
         </span>
       </span>
       <br />
       <span className="relative inline-block mt-2">
         <span className="absolute -inset-2 bg-gradient-to-r from-[#6366f1] to-[#a855f7] blur-2xl opacity-20"></span>
         <span className="relative bg-gradient-to-r from-[#6366f1] to-[#a855f7] bg-clip-text text-transparent">
-          Developer
+          Developer Intern
         </span>
       </span>
     </h1>
@@ -183,7 +183,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  Passionate backend developer with a strong focus on building robust systems for web and desktop applications. Experienced in Java, Node.js, React.js and database management (SQL & NoSQL). Dedicated to delivering scalable, secure, and maintainable backend solutions across platforms.
+                  Passionate fullstack developer with a strong focus on building robust systems for web and desktop applications. Experienced in Java, Node.js, React.js, and database management (SQL & NoSQL). Dedicated to delivering scalable, secure, and maintainable fullstack solutions across platforms.
                 </p>
 
                 {/* Tech Stack */}
